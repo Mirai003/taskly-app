@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taskly-django-api-381308",
+  "private_key_id": "f35d3167c1c7aaaa1ed09d694d8d52c50114dfbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9l/QicZtCwJO5\n5AWP9/zzCBCihFaUpe2CWSUupGzE90Yp06lwi3mpbPkadV+ZBrzBz7gOAt6DUvWC\ndJbGnKr+3NrWWGumiaxbepU3d9vj/2xVIxmTL3s9DGkP4RTBW/mMQ7dVySvshQ3v\n1KDpuJ0qhH2NgKNVBWPSfMdnE7W9lWe/aE4i9YWiKaqL+avpxhz7bMc80PBlT9WA\nVcEn+V2KsVkUHR+xtVjMVwbDENTMkMxreS3/p4IKU4p1YS+ZAEqLDujWUAVU3hxC\n70zarUoIB2A30mqRWqdFh+ncDgCzIjHUVTYwF1xuLorYy3SH0ztDHoZgBxiYH4yD\nn+oANk8vAgMBAAECggEATfRFJsZkatFozDWDzfrOsBTAVjooqU0CN6a0wZVMvb3Y\nRQlo8UP/3ZhXYjgheveIs/3W9Tfbys5Y8O9EMVyoeEtR1XEcriiMTD6+TMTFDl1u\n6yCX+us6dlL8fdFzqb9J/5C2OJkTLNhWbyaTlRXZ1WoNf5mFTsd9EEZK7MhvYQfv\nIlidSqZFBogfn3tp7M3PVBcxhCKuPr4OSRWTC6jT6Px1HHh8AgTraiAGXOFadrQF\nxwXIRM56qLJFtD9v09ck6zSGUCf6xC6Qad8pp6dYoHygeV/VgJaa7oqgYaY3Zg7K\nL2TxAFp6Rh4exfZzVngy5Thtc2YHE4W1y07AutRDvQKBgQD62VxkhvwJDyVt35AR\n5BkbUXyO2DwvHdQ4YrwAEs22I936YLKUHy+cXSQbcD1koqSQnDFFtwhIRAjQEnO/\nPPsltMBI6fiXYsBBU70H5Y3gC2UCxLMYbfQLN3MXs0HM/Yw3CP2MwNkm4e0b5DLQ\nkrVs2ztjp1keDXKMW4OsrmAL2wKBgQDBfJc863GsX0k1L62KCmP2TqF2NBlhYkVX\nzNDqoUvm7Cd63rQT6UU4WeeQG3TCcztmXaqJaavSy1n6HUKqWffiPc3S+eQT1q01\njIQV86U5INx6kXCMtVpeRes4RomV2+/SXma2GbPTlaXM6aZXf/GtuvM6Pu27EJ9k\nppeZxDE0PQKBgQCCjjA9DdgM6vojBjEYbqv2gOGgAsDIEPFL629HZoH0IxS75Cnt\nV5HTAtLxCOibAN8/eFtYmltQKUCg8omVZaqcxEcza7p7J+VB2tBOVNYTXjrTRwaj\nV06lq9VV53D+vJOGbUJxSEl8qCdc1dbwoPqVzkBJrGaAcqVEkbilXhgU8wKBgA2U\nqSjlfb0TkxfgmNWvlQSc0Ehzr7ReKW/YOHG/kIxM1xiQuSMMpIcoCFDdHHzpianN\nuUKb4CuTimU72IoMdpGytNeyIogh8VZo3nyL9XTlEZSo0LWPpSAo2DHDAbU7EsI5\nTgxKEY0wW8reO4a4vEXtcVUNRbJzoDx4VPu+AZYhAoGAN5dOlEEL/TzYawR5NM2X\ndwZkT46uJS6yV09+eCWXB4OPOmoAcco+TIdwES1bH1PYR6Gy0VNehBMO8qsRXIfh\nFbl7h3/1KiTkgIF9XyaX0xzpZCJV2Z8YvurDajVXG+GvX/7PBDf57WwokioukkkI\nXQYyeKTW8Rv5/GA3LINiH84=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-service-account-taskly-api@taskly-django-api-381308.iam.gserviceaccount.com",
+  "client_id": "104352176837800878003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-service-account-taskly-api%40taskly-django-api-381308.iam.gserviceaccount.com"
+}
